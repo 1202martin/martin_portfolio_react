@@ -1,0 +1,63 @@
+.post__container {
+    position:relative;  /*This property may need to be removed in the future as I add my posts to the site.*/
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 1.875rem;
+    left: 20vw;
+    padding-top: 10vh;  /*This property may need to be removed in the future as I add my posts to the site.*/
+}
+
+.post__card {
+    box-shadow: var(--shadow);
+    border-radius: var(--border-radius);
+    overflow: hidden;
+}
+
+.post__thumb {
+    position: relative;
+    overflow: hidden;
+}
+
+.post__img {
+    transform: scale(1);
+    transition: .3s;
+}
+
+.post__thumb:hover .post__img {
+    transform: scale(1.1);
+}
+
+.post__category {
+    color: #fff;
+    background-color: var(--first-color);
+    border-bottom-left-radius: 0.9375rem;
+    border-bottom-right-radius: 0.9375rem;
+    position: absolute;
+    top: 0;
+    left: 1.25rem;
+    font-size: var(--small-font-size);
+    display: inline-block;
+    padding: 0.125rem 0.5rem;
+    transition: 0.3s;
+    z-index: 1;
+}
+
+.post__details {
+    background-color: var(--container-color);
+    padding: 1.25rem;
+}
+
+.post__title {
+    font-size: var(--h3-font-size);
+    margin-bottom: 0.5rem;
+}
+
+.post__meta {
+    display: flex;
+    column-gap: 0.6rem;
+    font-size: var(--small-font-size);
+    color: #8b88b1;
+}
+
+.post__dot {
+    font-weight: var(--font-bold);
+}
