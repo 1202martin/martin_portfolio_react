@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/martin_portfolio_react/static/css/main.cd13e9dd.css",
+    "main.js": "/martin_portfolio_react/static/js/main.a3aaeac3.js",
+    "static/media/drone_defense.png": "/martin_portfolio_react/static/media/drone_defense.91dddc58fde9e214e890.png",
+    "static/media/blog-1.svg": "/martin_portfolio_react/static/media/blog-1.7f5fb5b0228f104a981e9809017a1cb2.svg",
+    "static/media/ugps_system.png": "/martin_portfolio_react/static/media/ugps_system.37d534d66d727d209b16.png",
+    "static/media/butcherstore_beef.png": "/martin_portfolio_react/static/media/butcherstore_beef.216c12749125b7ab0d5d.png",
+    "static/media/230118_resume_seonghoon.pdf": "/martin_portfolio_react/static/media/230118_resume_seonghoon.d669ad64088f3a7c72b0.pdf",
+    "static/media/martin_chair.png": "/martin_portfolio_react/static/media/martin_chair.68f0bec774d551eac89e.png",
+    "static/media/martin_window.png": "/martin_portfolio_react/static/media/martin_window.85b9d4ad69e4c5e0e18f.png",
+    "static/media/park_clan_seal.png": "/martin_portfolio_react/static/media/park_clan_seal.9c5f5598215914577fe6.png",
+    "static/media/global-network.png": "/martin_portfolio_react/static/media/global-network.80b40b68e3d2e66324f2.png",
+    "static/media/karate.png": "/martin_portfolio_react/static/media/karate.ce34d43d06a9ea9c9eaf.png",
+    "static/media/cooking.png": "/martin_portfolio_react/static/media/cooking.b423b010d515a9f5f95e.png",
+    "static/media/personality.png": "/martin_portfolio_react/static/media/personality.af0827e1c3d8ade73ddc.png",
+    "static/media/ivyLogo.png": "/martin_portfolio_react/static/media/ivyLogo.3475dbfb435c01ea817a.png",
+    "static/media/dots-bg.svg": "/martin_portfolio_react/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/martin_portfolio_react/index.html",
+    "main.cd13e9dd.css.map": "/martin_portfolio_react/static/css/main.cd13e9dd.css.map",
+    "main.a3aaeac3.js.map": "/martin_portfolio_react/static/js/main.a3aaeac3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd13e9dd.css",
+    "static/js/main.a3aaeac3.js"
+  ]
+}
