@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/martin_portfolio_react/static/css/main.cd13e9dd.css",
-    "main.js": "/martin_portfolio_react/static/js/main.a3aaeac3.js",
+    "main.js": "/martin_portfolio_react/static/js/main.c4cff207.js",
     "static/media/drone_defense.png": "/martin_portfolio_react/static/media/drone_defense.91dddc58fde9e214e890.png",
     "static/media/blog-1.svg": "/martin_portfolio_react/static/media/blog-1.7f5fb5b0228f104a981e9809017a1cb2.svg",
     "static/media/ugps_system.png": "/martin_portfolio_react/static/media/ugps_system.37d534d66d727d209b16.png",
@@ -18,10 +18,10 @@
     "static/media/dots-bg.svg": "/martin_portfolio_react/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/martin_portfolio_react/index.html",
     "main.cd13e9dd.css.map": "/martin_portfolio_react/static/css/main.cd13e9dd.css.map",
-    "main.a3aaeac3.js.map": "/martin_portfolio_react/static/js/main.a3aaeac3.js.map"
+    "main.c4cff207.js.map": "/martin_portfolio_react/static/js/main.c4cff207.js.map"
   },
   "entrypoints": [
     "static/css/main.cd13e9dd.css",
-    "static/js/main.a3aaeac3.js"
+    "static/js/main.c4cff207.js"
   ]
 }
