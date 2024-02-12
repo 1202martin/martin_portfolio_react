@@ -7,25 +7,29 @@ const Menu = [
       id: 1,
       image: Drone,
       title:  "IDefense",
-      category:"Work"
+      category:"Work",
+      link: "#"
     },
     {
       id: 2,
       image: UGPS,
       title: "uGPS",
       category: "Work",
+      link: "#"
     },
     {
       id: 3,
       image: Butcher,
       title: "Butcher Store",
       category: "School Project",
+      link: "http://34.168.118.253/butcher_store/"
     },
     {
       id: 4,
       image: Ivy,
       title: "I Visualize You Magazine",
       category: "School Project",
+      link: "#"
     }
   ];
 

@@ -1,0 +1,8 @@
+Work Log
+    1. Started running portfolio page on github pages
+    2. Started running Butcher Store on GCP with Apache2 server set to run for PHP
+    3. Currently adding the link to Butcher Store to the Project page in the porfolio page.
+
+To Do
+    * the Butcher Store instance is running on http, which leaves a security concern. Might wanna look into running this in HTTPS in the near future.
+    * Butcher Store link reveals the raw external IP endowed by GCP; might wanna change DNS settings later to change the URL.
