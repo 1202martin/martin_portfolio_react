@@ -16,8 +16,8 @@ const About = () => {
                     <div className="about__info">
                         <p className="about__description">Greetings! Welcome to my portfolio page. I am Seonghoon Park- don't worry. 
                             I have an English name for those of you that don't feel too comfortable speaking in Korean- you can also call me Martin.
-                            I've been working as a Software Engineer at a start-up company based in Incheon, South Korea for the past 3 years.
-                            I can deal with Object Oriented Programming (Python, preferably- Java and C++ are languages I'd have to google from time to time.),
+                            I've been working as a Software Engineer at a start-up company based in Incheon, South Korea for the past 4 years.
+                            I can deal with Object Oriented Programming (Python, preferably- Java and C++ are languages I'd have to Google from time to time.),
                             as well as computer networking and system administration. You are more than welcome to take a look around this site to check out
                             a brief introduction to my career as a software engineer, and I'm open for small chats so feel free to contact me</p>
                         <a href={Resume} className="btn">Martin's Resume</a>

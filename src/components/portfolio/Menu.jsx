@@ -22,7 +22,7 @@ const Menu = [
       image: Butcher,
       title: "Butcher Store",
       category: "School Project",
-      link: "http://34.168.118.253/butcher_store/"
+      link: "http://34.47.78.189/butcher_store/"
     },
     {
       id: 4,
